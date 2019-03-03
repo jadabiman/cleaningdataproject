@@ -9,7 +9,7 @@ Final programming assignment for Coursera Getting & Cleaning Data course. The pu
 ## The Files
 1. README.md: this document outlines the contained files and analysis process
 2. run_analysis.R: R script used to analyze original data and generate data2
-3. summary.csv: output from run_analysis.R 
+3. summary.txt: output from run_analysis.R 
 4. CodeBook.md: code book that describes the variables,  data, and transformations 
 
 ## Using run_analysis.R
