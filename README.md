@@ -15,4 +15,4 @@ Final programming assignment for Coursera Getting & Cleaning Data course. The pu
 ## Using run_analysis.R
 - Download original data into working directory from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 - Run script run_analysis.R
-- Tidy data will be exported as a .csv file
+- Tidy data will be exported as a .txt file
