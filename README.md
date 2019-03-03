@@ -9,5 +9,10 @@ Final programming assignment for Coursera Getting & Cleaning Data course. The pu
 ## The Files
 1. README.md: this document outlines the contained files and analysis process
 2. run_analysis.R: R script used to analyze original data and generate data2
-3. data2.csv: output from run_analysis.R 
+3. summary.csv: output from run_analysis.R 
 4. CodeBook.md: code book that describes the variables,  data, and transformations 
+
+## Using run_analysis.R
+- Download original data into working directory from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+- Run script run_analysis.R
+- Tidy data will be exported as a .csv file
